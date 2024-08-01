@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, Full Stack Developer**
 
-- 📫 How to reach me **saxenashikhil003@gmail.com**
+- 📫 How to reach me **techshikky@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
